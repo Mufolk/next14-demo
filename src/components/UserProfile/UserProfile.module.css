@@ -1,0 +1,13 @@
+.wrapper {
+    margin: 50px auto;
+}
+
+.data_wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.data_wrapper p {
+    margin-right: 30px;
+}
